@@ -1,0 +1,4 @@
+#Mon Jan 27 22:37:23 KST 2025
+base.0=/Users/pbnt01/Desktop/me_app2/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
