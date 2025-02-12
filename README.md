@@ -1,6 +1,6 @@
 # me_app2
 
-A new Flutter project.
+내가 처음 만든 앱. 
 
 ## Getting Started
 
